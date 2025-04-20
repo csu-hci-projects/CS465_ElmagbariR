@@ -1,5 +1,5 @@
 # CS465_ElmagbariR
-Space Adventure
+Space Adventure Game
 
   The project I chose involves creating a virtual reality (VR) space game where players interact with a simulated moon base environment. The main idea is to learn how to design and develop interactive virtual experiences using Unity and VR technologies. This project is important because virtual reality is becoming increasingly common in gaming and education, providing immersive experiences that can enhance learning, entertainment, and human-computer interaction (HCI).
 
