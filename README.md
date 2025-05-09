@@ -1,10 +1,13 @@
 # CS465_ElmagbariR
 
 Overleaf:
-https://www.overleaf.com/read/hgpprcyzhgdq#0a0451
+https://www.overleaf.com/project/681da15a67a69e7121bb1d75
 
-Youtube CP2:
-https://youtu.be/e9hqXBpY4LU
+Youtube high level overview of final:
+https://youtube.com/shorts/ZLEbr0okMVw
+
+Youtube final prensentation:
+https://youtu.be/1WFMwO_Prkk
 
 
 Space Adventure Game
